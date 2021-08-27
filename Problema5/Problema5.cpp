@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// aluno : Michel Ribeiro Alves
+// Matricula: 04058860
+// Turma: BCC-3NMA
 int main(){
 	int sacaflex, sacapremium, sacagold;
 	float valorflex, valorpremium, valorgold, valortotal, descontototal;
