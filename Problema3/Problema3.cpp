@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// aluno : Michel Ribeiro Alves
+// Matricula: 04058860
+// Turma: BCC-3NMA
 int main(){
 	float ricardo, conta;
 	int joao, rodrigo;
